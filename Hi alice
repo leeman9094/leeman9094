@@ -1,0 +1,23 @@
+# This is a comment. Comments are used to explain code and are ignored by the interpreter.
+
+# This code prints "Hello, world!" to the console
+print("Hello, world!")
+
+# Declare a variable called "name" and assign it the value "Alice"
+name = "Alice"
+
+# Print the value of the "name" variable
+print(name)
+
+# This code demonstrates a loop. The loop will iterate 5 times.
+for i in range(5):
+    # The loop will print the value of "i" on each iteration
+    print(i)
+
+# This code demonstrates a conditional statement.
+if name == "Alice":
+    # This code will be executed if the condition (name == "Alice") is true
+    print("Hi, Alice!")
+else:
+    # This code will be executed if the condition is false
+    print("I don't know your name.")
